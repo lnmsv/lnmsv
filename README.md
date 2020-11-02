@@ -2,6 +2,7 @@
 
 [telegram](https://t.me/lieandlow)
 [linkedin](https://www.linkedin.com/in/lnmsv)
+[hackerrank](https://www.hackerrank.com/ea_musaev)
 <!--
 **lnmsv/lnmsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

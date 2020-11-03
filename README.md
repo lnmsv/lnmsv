@@ -2,7 +2,7 @@
 
 [telegram](https://t.me/lieandlow) &
 [gmail](mailto:ea.musaev@gmail.com) &
-[linkedin](https://www.linkedin.com/in/lnmsv)__
+[linkedin](https://www.linkedin.com/in/lnmsv)<br />
 [hackerrank](https://www.hackerrank.com/ea_musaev) &
 [codewars](https://www.codewars.com/users/lnmsv) &
 [freecodecamp](https://www.freecodecamp.org/lnmsv)

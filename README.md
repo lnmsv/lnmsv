@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-[telegram](https://t.me/lieandlow) &
-[gmail](mailto:ea.musaev@gmail.com) &
-[linkedin](https://www.linkedin.com/in/lnmsv)<br />
-[hackerrank](https://www.hackerrank.com/ea_musaev) &
-[codewars](https://www.codewars.com/users/lnmsv) &
-[freecodecamp](https://www.freecodecamp.org/lnmsv)
+[TELEGRAM](https://t.me/lieandlow)<br/>
+[GMAIL](mailto:ea.musaev@gmail.com)<br/>
+[LINKEDIN](https://www.linkedin.com/in/lnmsv)<br/>
+[HACKERRANK](https://www.hackerrank.com/ea_musaev)<br/>
+[CODEWARS](https://www.codewars.com/users/lnmsv)<br/>
+[FREECODECAMP](https://www.freecodecamp.org/lnmsv)<br/>
 
 <!--
 **lnmsv/lnmsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

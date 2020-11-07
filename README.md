@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+[GMAIL](mailto:ea.musaev@gmail.com)<br/>
 [TELEGRAM](https://t.me/lieandlow)<br/>
 [LINKEDIN](https://www.linkedin.com/in/lnmsv)<br/>
-[GMAIL](mailto:ea.musaev@gmail.com)<br/>
 [CODEWARS](https://www.codewars.com/users/lnmsv)<br/>
 [HACKERRANK](https://www.hackerrank.com/ea_musaev)<br/>
 [FREECODECAMP](https://www.freecodecamp.org/lnmsv)<br/>

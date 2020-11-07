@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 [TELEGRAM](https://t.me/lieandlow)<br/>
-[GMAIL](mailto:ea.musaev@gmail.com)<br/>
 [LINKEDIN](https://www.linkedin.com/in/lnmsv)<br/>
-[HACKERRANK](https://www.hackerrank.com/ea_musaev)<br/>
+[GMAIL](mailto:ea.musaev@gmail.com)<br/>
 [CODEWARS](https://www.codewars.com/users/lnmsv)<br/>
+[HACKERRANK](https://www.hackerrank.com/ea_musaev)<br/>
 [FREECODECAMP](https://www.freecodecamp.org/lnmsv)<br/>
 
 <!--
